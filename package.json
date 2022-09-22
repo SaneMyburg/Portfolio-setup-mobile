@@ -1,0 +1,23 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaneMyburg/Portfolio-setup-mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaneMyburg/Portfolio-setup-mobile/issues"
+  },
+  "homepage": "https://github.com/SaneMyburg/Portfolio-setup-mobile#readme",
+  "devDependencies": {
+    "hint": "^2.0.0"
+  }
+}
